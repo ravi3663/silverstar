@@ -1,6 +1,10 @@
 # Docker setup
 
-## down all the containers and images at a time:
+# reference for this setup 
+https://docs.docker.com/samples/rails/
+
+
+## docker commands:
 
 1. Docker compose down -v
 
