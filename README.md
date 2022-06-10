@@ -4,7 +4,7 @@
 
 - Install [Docker](https://www.docker.com/)
 - Install [Docker Compose](https://docs.docker.com/compose/install/)
-- Refer docker setup for rails here(https://docs.docker.com/samples/rails/)
+- [Rails Docker Setup](https://docs.docker.com/samples/rails/)
 
 ## docker commands:
 
